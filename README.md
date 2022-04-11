@@ -3,7 +3,7 @@
 ## I. Overview of Project
 
 ### Background
-Using bikes sharing data from NYC, we would like to determine if this business would be applicable in Des Moines, Iowa. 
+Using bike sharing data from NYC, we need to submit a proposal to an investor how this business would work in Des Moines, Iowa. 
 
 ### Objective
 To solidify the proposal, we need to show a bike trip analysis with visualizations that:
@@ -13,7 +13,16 @@ To solidify the proposal, we need to show a bike trip analysis with visualizatio
 
 ## II. Analysis and Results
 
+[LINK TO DASHBOARD](https://public.tableau.com/views/NYCCitibikeChallenge_16496411191940/NYCCitibikeChallenge?:language=en-US&:display_count=n&:origin=viz_share_link)
 
-### A. 
+### A. Checkout Times for Users
 
+![](.png)
 
+### B. Checkout Times by Gender
+
+### C. Trips by Weekday per Hour
+
+### D. Trips by Gender (Weekday per Hour)
+
+### E.  User Trips by Gender by Weekday
