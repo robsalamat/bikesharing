@@ -17,12 +17,22 @@ To solidify the proposal, we need to show a bike trip analysis with visualizatio
 
 ### A. Checkout Times for Users
 
-![](.png)
+![](Images/Checkout_times_for_users.PNG)
 
 ### B. Checkout Times by Gender
 
+![](Images/Checkout_times_by_gender.PNG)
+
 ### C. Trips by Weekday per Hour
+
+![](Images/Trips_by_weekday_per_hour.PNG)
 
 ### D. Trips by Gender (Weekday per Hour)
 
+![](Images/Trips_by_gender_weekday_per_hour.PNG)
+
 ### E.  User Trips by Gender by Weekday
+
+![](Images/User_trips_by_gender_by_weekday.PNG)
+
+
