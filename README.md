@@ -45,5 +45,7 @@ To solidify the proposal, we need to show a bike trip analysis with visualizatio
 - The bikes were used during times for commuting to and from work during weekdays and the whole day for weekends.
 - The day with the largest number of users is Thursday.
 
-### B. For Further Analysis
-- 
+### B. For Further Investigation
+- Analysis using age, to determine the target market
+- Using a larger time frame to see the trend. (ex. July- Sep)
+- Analysis from a city with similar population with Des Moines.
