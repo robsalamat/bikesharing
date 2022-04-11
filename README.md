@@ -11,7 +11,7 @@ To solidify the proposal, we need to show a bike trip analysis with visualizatio
 - Show the number of bike trips for all riders and genders for each hour of each day of the week
 - Show the number of bike trips for each type of user and gender for each day of the week.
 
-## II. Analysis and Results
+## II. Results
 
 [LINK TO DASHBOARD](https://public.tableau.com/views/NYCCitibikeChallenge_16496411191940/NYCCitibikeChallenge?:language=en-US&:display_count=n&:origin=viz_share_link)
 
@@ -36,3 +36,14 @@ To solidify the proposal, we need to show a bike trip analysis with visualizatio
 ![](Images/User_trips_by_gender_by_weekday.PNG)
 
 
+## III. Summary
+
+### A. Results
+- There were a total of 2,344,224 rides in August 2019.
+- The average bike ride lasts for 5-6 minutes.
+- A great majority of riders were male
+- The bikes were used during times for commuting to and from work during weekdays and the whole day for weekends.
+- The day with the largest number of users is Thursday.
+
+### B. For Further Analysis
+- 
